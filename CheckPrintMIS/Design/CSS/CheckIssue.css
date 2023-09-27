@@ -1,0 +1,19 @@
+﻿.row {
+    padding: 5px;
+}
+#messageLabel {
+    color: green;
+    font-size: 20px;
+   
+}
+.panel {
+    width: 719px;
+}
+.ajax__calendar_container{ z-index: 99999;}
+
+#party_row {
+    margin-top: 15px;
+}
+/*#bank_row {
+    margin-top: 15px;
+}*/ 

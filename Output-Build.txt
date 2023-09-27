@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: CheckPrintMIS, Configuration: Debug Any CPU ------
+1>  No way to resolve conflict between "log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821" and "log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=692fbea5521e1304". Choosing "log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821" arbitrarily.
+1>  CheckPrintMIS -> D:\Medicon All\CheckPrintMIS\CheckPrintMIS\CheckPrintMIS\bin\CheckPrintMIS.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

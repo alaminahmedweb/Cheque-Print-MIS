@@ -1,0 +1,23 @@
+﻿.row {
+    padding: 5px;
+}
+
+.panel {
+    text-align: center;
+    font-size: 15px;
+}
+
+.panel-body {
+    height: 155px;
+}
+
+.ajax__calendar_container {
+    z-index: 99999;
+}
+
+#party_row {
+    margin-top: 15px;
+}
+#btn_row {
+    margin-bottom: 15px;
+}
